@@ -1,0 +1,28 @@
+Big data - es un concepto que hace referencia al almacenamiento de grandes cantidades de datos para encontrar patrones repetitivos dentro de esos datos.
+
+Data analytics - proceso de inspeccionar, limpiar y transformar datos con el objetivo de resaltar informacion util, lo que sugiere conclusiones y apoyo a la toma de decisiones. 
+|
+|	-Asociacion - permite encontrar relaciones entre diferentes variables. Bajo la premisa de causalidad, se pretende encontrar una |	              prediccion en el comportamiento de otras variables. 
+------	-Mineria de datos 
+	-Agrupacion en closter 
+	-VIsualizacion de datos
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Clustering - el analisis de clusters es un tipo de mineria de datos que divide frandes grupos de individuos en grupos mas pequeños de los cuales no conociamos su parecido antes del analisis.
+
+El proposito es encontrar similitudes entre estos grupos, y el descubrimiento de nuevos conociendo cuales son las cualidades que lo definen.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+7 mistakes enterprises make in big data projects
+- minimizing data relevance
+- underestimating data quality
+- overlooking data granularity
+- improperly contextualizing data
+- not grasping data comprexity
+- ignoring data preparation
+- deploying technology as a silver bullet
+
+
+
+
+
